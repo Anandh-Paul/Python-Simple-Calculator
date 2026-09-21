@@ -8,7 +8,7 @@ Indentation Error: Fixed the indentation of the return statement within the add 
 
 Variable Mismatch: Corrected the parameter name in the multiply function from z to y to match the logic.
 
-Execution Guard: Included the if __name__ == "__main__": block to prevent accidental function execution when imported as a module.
+Execution Guard: Included the if ____name____ == "____main____": block to prevent accidental function execution when imported as a module.
 
 Installation
 Copy the code from cal.py into your preferred environment.
