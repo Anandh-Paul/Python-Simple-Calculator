@@ -1,4 +1,4 @@
-Python Simple Calculator
+#Python Simple Calculator#
 This project is a beginner-friendly command-line calculator built in Python. It demonstrates essential programming concepts such as function definitions, loops, and conditional logic.
 
 Troubleshooting and Fixes Made
